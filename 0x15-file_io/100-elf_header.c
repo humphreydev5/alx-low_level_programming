@@ -7,6 +7,7 @@
 #include <stdlib.h>
 #include "print_magic.c"
 #include "print_class.c"
+#include "print_data.c"
 
 void check_elf(unsigned char *e_ident);
 void print_magic(unsigned char *e_ident);
