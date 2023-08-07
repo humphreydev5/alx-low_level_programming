@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include "print_magic.c"
 
 void check_elf(unsigned char *e_ident);
 void print_magic(unsigned char *e_ident);
