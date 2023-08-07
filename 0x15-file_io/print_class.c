@@ -6,6 +6,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+void print_data(unsigned char *e_ident);
 /**
  * print_class - Prints the class of an ELF header.
  * @e_ident: A pointer to an array containing the ELF class.
