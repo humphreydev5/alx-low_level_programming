@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * is written by Humphrey
+ * is written by HumphreLy
  * Return: 0
  */
 
