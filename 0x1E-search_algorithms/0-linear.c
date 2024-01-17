@@ -6,7 +6,7 @@
  *
  * @array: input array
  * @size: size of the array
- * @value: value to search in algorithm
+ * @value: value to search in
  * Return: Always EXIT_SUCCESS
  */
 
